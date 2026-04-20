@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Frontend Developer | 🎨 HTML & CSS Lover  
-🚀 Building clean & responsive websites
+🚀 Building clean & responsive websites दर्द कम नहीं होता, बस धुआँ बन जाता है 🚬
 </p>
 
 ---
