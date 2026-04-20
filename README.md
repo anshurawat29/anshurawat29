@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Rawat</h1>
 
 <p align="center">
-💻 Frontend Developer | 🎨 HTML & CSS Lover  
-🚀 Building clean & responsive websites दर्द कम नहीं होता, बस धुआँ बन जाता है 🚬
+💻 Frontend Developer |दर्द कम नहीं होता, बस धुआँ बन जाता है 🚬
 </p>
 
 ---
